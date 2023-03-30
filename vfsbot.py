@@ -1,3 +1,7 @@
+1) polonya
+2) İstanbul 
+3) Beyoğlu 
+4) altunizade
 from selenium import webdriver
 import urllib
 from selenium.webdriver.common.by import By
